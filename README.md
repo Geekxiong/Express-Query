@@ -37,6 +37,8 @@ http://www.kuaidi100.com/autonumber/autoComNum?text=快递单号
 
 >comCode为快递商的代号，其余的我们不管 2333
 
+>看更多快递商代号，可看delivery.sql
+
 ```
 //再通过快递商代号以及快递单号查询具体的物流信息
 http://www.kuaidi100.com/query?type=快递商代号&postid=快递单号
