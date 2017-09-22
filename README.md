@@ -1,4 +1,4 @@
-Express-Query
+# Express-Query
 
 本工程使用[快递100](http://www.kuaidi100.com/) 查询链接实现，仅供学习，禁止商业使用。
 
@@ -119,11 +119,11 @@ http://www.kuaidi100.com/query?type=快递商代号&postid=快递单号
 
 #### 打包的jar包在[target](https://github.com/Geekxiong/Express-Query/tree/master/ExpressQuery/target)下面
 
-ExpressQuery-0.0.1-SNAPSHOT-jar-with-dependencies.jar    包括了依赖包
+- ExpressQuery-0.0.1-SNAPSHOT-jar-with-dependencies.jar  包括了依赖包
 
-ExpressQuery-0.0.1-SNAPSHOT.jar 不包括依赖包
+- ExpressQuery-0.0.1-SNAPSHOT.jar  不包括依赖包
 
-
+---
 
 使用例子为工程中的Example，方法与类不多，源码中有注释
 
